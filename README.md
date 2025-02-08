@@ -15,7 +15,7 @@ Dreamo is a unique platform that helps users achieve their goals and dreams thro
 ## Getting Started
 ### Clone the Repository:
 ```sh
-git clone https://github.com/Serhii2009/dreamo.git
+git clone https://github.com/Serhii2009/dreamo-platform.git
 cd dreamo
 ```
 
