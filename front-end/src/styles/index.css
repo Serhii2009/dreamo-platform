@@ -1,0 +1,22 @@
+@import url('./variables.css');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: var(--font-main);
+  background-color: var(--guest-background-color);
+  color: var(--main-text-color);
+  line-height: 1.6;
+}
+
+button {
+  background-color: var(--main-button-background-color);
+  border: none;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  border-radius: 5px;
+}
